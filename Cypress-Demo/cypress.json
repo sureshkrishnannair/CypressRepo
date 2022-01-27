@@ -1,0 +1,10 @@
+{
+  "ignoreTestFiles": "*.ts",
+  "retries": {
+    "runMode": 0,
+    "openMode": 0
+  },
+  "chromeWebSecurity": false,
+  "defaultCommandTimeout": 10000,
+  "pageLoadTimeout": 9000
+}
